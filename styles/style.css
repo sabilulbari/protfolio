@@ -303,7 +303,7 @@ header .menu a{
 
 #footer{
     background-color: #FFF8F3;
-    width: 1600px;
+    width: 100%;
     height: 780px;
 }
 
@@ -346,7 +346,7 @@ header .menu a{
     width: 461px;
     height: 180px;
     border: none;
-    
+
     margin-bottom: 24px;
 }
 
